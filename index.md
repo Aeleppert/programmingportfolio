@@ -9,4 +9,4 @@ Image of running Space Game:
 
 ![Image of Space Game](https://github.com/Aeleppert/programmingportfolio/blob/gh-pages/images/SpaceGame.png?raw=true)
 
-Source code available here:
+Source code available [here.](https://github.com/Aeleppert/programmingportfolio/tree/gh-pages/src/SpaceGameFinal)
