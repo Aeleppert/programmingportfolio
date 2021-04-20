@@ -7,9 +7,11 @@ All of these projects have been written in the Java language.
 ### SpaceGame
 This is an OOP game built in the Processing environment. Made Winter 2020.
 
-Image of running Space Game:
+Images of running Space Game:
 
-![Image of Space Game](https://github.com/Aeleppert/programmingportfolio/blob/gh-pages/images/SpaceGame.png?raw=true)
+![Image of Space Game](https://github.com/Aeleppert/programmingportfolio/blob/gh-pages/images/SpaceGame/SpaceGame1.png?raw=true)
+
+![Image of Space Game](https://github.com/Aeleppert/programmingportfolio/blob/gh-pages/images/SpaceGame/SpaceGame2.png?raw=true)
 
 Source code available [here.](https://github.com/Aeleppert/programmingportfolio/tree/gh-pages/src/SpaceGameFinal)
 
