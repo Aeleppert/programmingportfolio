@@ -35,7 +35,7 @@ Executables available here:
 
 
 ### Computer Timeline
-This is an interactive graphic built in the Processing environment. Made September 2020.
+This is a GUI built in the Processing environment. Made September 2020.
 
 Image of running Timeline:
 
@@ -77,3 +77,56 @@ Source code available [here.](https://github.com/Aeleppert/programmingportfolio/
 
 All of these projects have been written in the Python language.
 
+### 10 Questions about You
+This is an interactive game built in the Repl.it environment. Made April 2021.
+
+Image of running 10 Questions about You:
+
+![Image of 10 Questions about You](https://github.com/Aeleppert/programmingportfolio/blob/gh-pages/images/10questions.png?raw=true)
+
+Source code available [here.](https://github.com/Aeleppert/programmingportfolio/tree/gh-pages/src/IOQ)
+
+### BirthDate
+This is an interactive game built in the Repl.it environment. Made February 2021.
+
+Image of running BirthDate:
+
+![Image of BirthDate](https://github.com/Aeleppert/programmingportfolio/blob/gh-pages/images/Birthdate.png?raw=true)
+
+Source code available [here.](https://github.com/Aeleppert/programmingportfolio/tree/gh-pages/src/Birthdate)
+
+### MadLib
+This is an interactive game built in the Repl.it environment. Made March 2021.
+
+Image of running MadLib:
+
+![Image of MadLib](https://github.com/Aeleppert/programmingportfolio/blob/gh-pages/images/Madlib.png?raw=true)
+
+Source code available [here.](https://github.com/Aeleppert/programmingportfolio/tree/gh-pages/src/Madlib)
+
+### Number Guessing Game
+This is an interactive game built in the Repl.it environment. Made February 2021.
+
+Image of running Number Guessing Game:
+
+![Image of Number Guessing Game](https://github.com/Aeleppert/programmingportfolio/blob/gh-pages/images/NumberGuess.png?raw=true)
+
+Source code available [here.](https://github.com/Aeleppert/programmingportfolio/tree/gh-pages/src/NumberGuess)
+
+### Pig Latin Translator
+This is a translator built in the Repl.it environment. Made February 2021.
+
+Image of running Pig Latin Translator:
+
+![Image of Pig Latin Translator](https://github.com/Aeleppert/programmingportfolio/blob/gh-pages/images/PigLatinTrans.png?raw=true)
+
+Source code available [here.](https://github.com/Aeleppert/programmingportfolio/tree/gh-pages/src/PigLatinTrans)
+
+### Volume and Surface Area Calculator
+This is an interactive calculator built in the Repl.it environment. Made March 2021.
+
+Image of running Volume and Surface Area Calculator:
+
+![Image of Volume and Surface Area Calculator](https://github.com/Aeleppert/programmingportfolio/blob/gh-pages/images/VolumeArea.png?raw=true)
+
+Source code available [here.](https://github.com/Aeleppert/programmingportfolio/tree/gh-pages/src/VolumeArea)
