@@ -15,10 +15,10 @@ Images of running Space Game:
 
 Source code available [here.](https://github.com/Aeleppert/programmingportfolio/tree/gh-pages/src/SpaceGameFinal)
 
-Executables available here:
-[Windows](https://github.com/Aeleppert/programmingportfolio/blob/gh-pages/src/SpaceGameFinal/application.windows64.zip)
-[Linux](https://github.com/Aeleppert/programmingportfolio/blob/gh-pages/src/SpaceGameFinal/application.linux64.zip)
-[MacOSX](https://github.com/Aeleppert/programmingportfolio/blob/gh-pages/src/SpaceGameFinal/application.macosx.zip)
+Executables available here for
+[Windows](https://github.com/Aeleppert/programmingportfolio/blob/gh-pages/src/SpaceGameFinal/application.windows64.zip),
+[Linux](https://github.com/Aeleppert/programmingportfolio/blob/gh-pages/src/SpaceGameFinal/application.linux64.zip), and
+[MacOSX](https://github.com/Aeleppert/programmingportfolio/blob/gh-pages/src/SpaceGameFinal/application.macosx.zip).
 
 
 ### Calculator
@@ -30,10 +30,10 @@ Image of running Calculator:
 
 Source code available [here.](https://github.com/Aeleppert/programmingportfolio/tree/gh-pages/src/Calculator)
 
-Executables available here:
-[Windows](https://github.com/Aeleppert/programmingportfolio/blob/gh-pages/src/Calculator/application.windows64.zip)
-[Linux](https://github.com/Aeleppert/programmingportfolio/blob/gh-pages/src/Calculator/application.linux64.zip)
-[MacOSX](https://github.com/Aeleppert/programmingportfolio/blob/gh-pages/src/Calculator/application.macosx.zip)
+Executables available here for
+[Windows](https://github.com/Aeleppert/programmingportfolio/blob/gh-pages/src/Calculator/application.windows64.zip),
+[Linux](https://github.com/Aeleppert/programmingportfolio/blob/gh-pages/src/Calculator/application.linux64.zip), and
+[MacOSX](https://github.com/Aeleppert/programmingportfolio/blob/gh-pages/src/Calculator/application.macosx.zip).
 
 
 ### Computer Timeline
