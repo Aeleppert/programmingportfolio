@@ -1,5 +1,7 @@
 # Alice Leppert's Programming Portfolio 2021
 
+If you have any questions at all, please contact me at [aeleppert@gmail.com](mailto:aeleppert@gmail.com)
+
 ## Processing Projects
 
 All of these projects have been written in the Java language.
