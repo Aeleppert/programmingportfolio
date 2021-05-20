@@ -4,10 +4,26 @@ If you have any questions at all, please contact me at [aeleppert@gmail.com](mai
 
 ## Processing Projects
 
-All of these projects have been written in the Java language.
+### SudokuGame
+This is an OOP game built in the Processing environment written in Python. Made May 2021. Created by Alice Leppert.
+
+This will be a game with two difficulties, easy and difficult. You will get to choose which difficulty level you want at the startscreen. It will then give you a puzzle. You will have to solve each puzzle using numbers 1-9 on your keyboard, a clear button, which clears all answers, a check button, and the level buttons to start a new game once you have finished. When you have finished, you can check your answers with the check button which will change the colors of the numbers to let you know if you got any wrong.
+
+Here are some early designs and a Diagram of the code:
+
+![Sudoku Diagram](https://github.com/Aeleppert/programmingportfolio/blob/gh-pages/src/SudokuGame/SudokuDiagram%20(1).png?raw=true)
+
+![Sudoku GUI](https://github.com/Aeleppert/programmingportfolio/blob/gh-pages/src/SudokuGame/SudokuGUI.png?raw=true)
+
+Image of running Sudoku Game:
+
+![Image of Sudoku Game](https://github.com/Aeleppert/programmingportfolio/blob/gh-pages/images/Sudoku.png?raw=true)
+
+Source code available [here.](https://github.com/Aeleppert/programmingportfolio/tree/gh-pages/src/SudokuGame)
+
 
 ### SpaceGame
-This is an OOP game built in the Processing environment. Made Winter 2020.
+This is an OOP game built in the Processing environment written in Java. Made Winter 2020.
 
 Images of running Space Game:
 
@@ -24,7 +40,7 @@ Executables available here for
 
 
 ### Calculator
-This is an OOP GUI built in the Processing environment. Made November 2020.
+This is an OOP GUI built in the Processing environment written in Java. Made November 2020.
 
 Image of running Calculator:
 
@@ -39,7 +55,7 @@ Executables available here for
 
 
 ### Computer Timeline
-This is a GUI built in the Processing environment. Made September 2020.
+This is a GUI built in the Processing environment written in Java. Made September 2020.
 
 Image of running Timeline:
 
@@ -54,7 +70,7 @@ Executables available here for
 
 
 ### Screen Saver
-This is an graphic built in the Processing environment. Made October 2020.
+This is an graphic built in the Processing environment written in Java. Made October 2020.
 
 Image of running Screen Saver:
 
@@ -69,7 +85,7 @@ Executables available here for
 
 
 ### Cars
-This is an OOP graphic built in the Processing environment. Made December 2020.
+This is an OOP graphic built in the Processing environment written in Java. Made December 2020.
 
 Image of running Cars:
 
@@ -84,7 +100,7 @@ Executables available here for
 
 
 ### Volume Converter
-This is an interactive graphic built in the Processing environment. Made October 2020.
+This is an interactive graphic built in the Processing environment written in Java. Made October 2020.
 
 Image of running Volume Converter:
 
