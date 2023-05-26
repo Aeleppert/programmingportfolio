@@ -2,6 +2,25 @@
 
 If you have any questions at all, please contact me at [aeleppert@gmail.com](mailto:aeleppert@gmail.com).
 
+## Java Projects
+
+### BREACH
+
+Created by Henry Dunn, Ethan Reynolds, Alice Leppert, Mike Torianyk, and Soonhwi Kwon. Written in Java 2022-2023.
+
+You, a misfortunate hacker, hold the key to a staggering text-based RPG adventure in the pulsing cyberpunk world of "BREACH," so get ready to dive into one hell of an adventure. Every action you take in this perilous environment is a calculated cost for survival, putting your unshakeable will to always act morally—regardless of the alluring rewards that await you—to the test. Develop your abilities and work toward being the ultimate master hacker as you make your way through this dangerous adventure, buying the medication you need and battling your own illness before it takes your life. Do you have what it takes to survive and become the greatest hacker of all time?
+
+Gameplay:
+
+![Hacking](https://github.com/ArtAcapella/RPG_Group_Project/blob/main/images/Screen%20Shot%202023-04-14%20at%209.10.01%20AM.png?raw=true)
+
+![Start](https://github.com/ArtAcapella/RPG_Group_Project/blob/main/images/Screenshot%202023-05-21%208.31.10%20PM.png?raw=true)
+
+Executables available for 
+[Linux](https://github.com/Aeleppert/IndividualProject/blob/main/exe/application.linux64.zip), 
+[Windows](https://github.com/Aeleppert/IndividualProject/blob/main/exe/application.windows32.zip), and 
+[MacOSX](https://github.com/Aeleppert/IndividualProject/blob/main/exe/application.macosx.zip).
+
 ## Processing Projects
 
 ### Devil's Handholding Card Game
