@@ -13,9 +13,9 @@ Devil's Handholding Card Game will be a simplified and easier version of the car
 
 Gameplay:
 
-![Gameplay](https://github.com/Aeleppert/IndividualProject/blob/main/images/Screen%20Shot%202023-03-19%20at%2010.17.22%20PM.png)
+![Gameplay](https://github.com/Aeleppert/IndividualProject/blob/main/images/Screen%20Shot%202023-03-19%20at%2010.17.22%20PM.png?raw=true)
 
-![Start Screen](https://github.com/Aeleppert/IndividualProject/blob/main/images/Screen%20Shot%202023-03-19%20at%2010.17.31%20PM.png)
+![Start Screen](https://github.com/Aeleppert/IndividualProject/blob/main/images/Screen%20Shot%202023-03-19%20at%2010.17.31%20PM.png?raw=true)
 
 Executables available for 
 [Linux](https://github.com/Aeleppert/IndividualProject/blob/main/exe/application.linux64.zip), 
@@ -24,8 +24,8 @@ Executables available for
 
   
 Documentation Here:  
-![Placeholder Image](https://github.com/Aeleppert/IndividualProject/blob/main/images/Updated%20flowchart.drawio.png)
-![Placeholder Image](https://github.com/Aeleppert/IndividualProject/blob/main/images/Updated%20class.drawio.png)
+![Placeholder Image](https://github.com/Aeleppert/IndividualProject/blob/main/images/Updated%20flowchart.drawio.png?raw=true)
+![Placeholder Image](https://github.com/Aeleppert/IndividualProject/blob/main/images/Updated%20class.drawio.png?raw=true)
 
 
 ### SudokuGame
