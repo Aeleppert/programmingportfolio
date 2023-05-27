@@ -1,8 +1,10 @@
 # Alice Leppert's Programming Portfolio 2021
 
+Certifications in Programming I, Programming II, Java, Python, C++, C#, and Visual Basic.
+
 If you have any questions at all, please contact me at [aeleppert@gmail.com](mailto:aeleppert@gmail.com).
 
-## Java Projects
+## Java Project Spotlight
 
 ### BREACH
 
@@ -16,10 +18,7 @@ Gameplay:
 
 ![Start](https://github.com/ArtAcapella/RPG_Group_Project/blob/main/images/Screenshot%202023-05-21%208.31.10%20PM.png?raw=true)
 
-Executables available for 
-[Linux](https://github.com/Aeleppert/IndividualProject/blob/main/exe/application.linux64.zip), 
-[Windows](https://github.com/Aeleppert/IndividualProject/blob/main/exe/application.windows32.zip), and 
-[MacOSX](https://github.com/Aeleppert/IndividualProject/blob/main/exe/application.macosx.zip).
+Executables, source code, and more can be found [here](https://github.com/ArtAcapella/RPG_Group_Project)
 
 ## Processing Projects
 
@@ -45,6 +44,8 @@ Executables available for
 Documentation Here:  
 ![Placeholder Image](https://github.com/Aeleppert/IndividualProject/blob/main/images/Updated%20flowchart.drawio.png?raw=true)
 ![Placeholder Image](https://github.com/Aeleppert/IndividualProject/blob/main/images/Updated%20class.drawio.png?raw=true)
+
+Source code available [here.](https://github.com/Aeleppert/IndividualProject/tree/main/src)
 
 
 ### SudokuGame
